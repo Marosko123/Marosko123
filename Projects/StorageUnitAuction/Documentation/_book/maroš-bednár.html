@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 2 Maroš Bednár | Storage Unit Auction</title>
+  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
+set in the _output.yml file.
+The HTML output format for this example is bookdown::gitbook,</p>" />
+  <meta name="generator" content="bookdown 0.26 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 2 Maroš Bednár | Storage Unit Auction" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+set in the _output.yml file.
+The HTML output format for this example is bookdown::gitbook,</p>" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 2 Maroš Bednár | Storage Unit Auction" />
+  
+  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+set in the _output.yml file.
+The HTML output format for this example is bookdown::gitbook,</p>" />
+  
+
+<meta name="author" content="Maroš Bednár" />
+
+
+<meta name="date" content="2022-05-15" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="index.html"/>
+<link rel="next" href="uml-diagram.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Project documentation</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#fulfillment-of-criteria"><i class="fa fa-check"></i><b>1.1</b> Fulfillment of criteria</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#certain-implementations"><i class="fa fa-check"></i><b>1.2</b> Certain implementations</a>
+<ul>
+<li class="chapter" data-level="1.2.1" data-path="index.html"><a href="index.html#main-criteria"><i class="fa fa-check"></i><b>1.2.1</b> Main criteria</a></li>
+<li class="chapter" data-level="1.2.2" data-path="index.html"><a href="index.html#secondary-criteria"><i class="fa fa-check"></i><b>1.2.2</b> Secondary criteria</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="maroš-bednár.html"><a href="maroš-bednár.html"><i class="fa fa-check"></i><b>2</b> Maroš Bednár</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="maroš-bednár.html"><a href="maroš-bednár.html#storage-unit-auction"><i class="fa fa-check"></i><b>2.1</b> Storage Unit Auction</a></li>
+<li class="chapter" data-level="2.2" data-path="maroš-bednár.html"><a href="maroš-bednár.html#login-functions"><i class="fa fa-check"></i><b>2.2</b> Login functions:</a></li>
+<li class="chapter" data-level="2.3" data-path="maroš-bednár.html"><a href="maroš-bednár.html#auction-functions"><i class="fa fa-check"></i><b>2.3</b> Auction functions:</a></li>
+<li class="chapter" data-level="2.4" data-path="maroš-bednár.html"><a href="maroš-bednár.html#list-of-features-for-current-version-v1.0.0"><i class="fa fa-check"></i><b>2.4</b> List of features for current version v1.0.0</a></li>
+<li class="chapter" data-level="2.5" data-path="maroš-bednár.html"><a href="maroš-bednár.html#important-code"><i class="fa fa-check"></i><b>2.5</b> Important code</a></li>
+<li class="chapter" data-level="2.6" data-path="maroš-bednár.html"><a href="maroš-bednár.html#uml-diagram"><i class="fa fa-check"></i><b>2.6</b> UML diagram</a></li>
+<li class="chapter" data-level="2.7" data-path="maroš-bednár.html"><a href="maroš-bednár.html#project-skeleton"><i class="fa fa-check"></i><b>2.7</b> Project Skeleton</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="maroš-bednár.html"><a href="maroš-bednár.html#uml-diagram"><i class="fa fa-check"></i><b>3</b> UML diagram</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="uml-diagram.html"><a href="uml-diagram.html"><i class="fa fa-check"></i><b>3.1</b> Class diagram</a>
+<ul>
+<li class="chapter" data-level="3.1.1" data-path="uml-diagram.html"><a href="uml-diagram.html#description-of-classes"><i class="fa fa-check"></i><b>3.1.1</b> Description of classes</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html"><i class="fa fa-check"></i><b>4</b> Description of production versions</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#change-log-v1.0.0"><i class="fa fa-check"></i><b>4.1</b> Change log v1.0.0</a></li>
+<li class="chapter" data-level="4.2" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#change-log-v1.0.1"><i class="fa fa-check"></i><b>4.2</b> Change log v1.0.1</a></li>
+<li class="chapter" data-level="4.3" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#change-log-v1.0.2"><i class="fa fa-check"></i><b>4.3</b> Change log v1.0.2</a></li>
+<li class="chapter" data-level="4.4" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#version-1.0.0"><i class="fa fa-check"></i><b>4.4</b> Version 1.0.0</a></li>
+<li class="chapter" data-level="4.5" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#version-1.0.1"><i class="fa fa-check"></i><b>4.5</b> Version 1.0.1</a></li>
+<li class="chapter" data-level="4.6" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#version-1.0.2"><i class="fa fa-check"></i><b>4.6</b> Version 1.0.2</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="environment-setup.html"><a href="environment-setup.html"><i class="fa fa-check"></i><b>5</b> Environment setup</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="environment-setup.html"><a href="environment-setup.html#installation"><i class="fa fa-check"></i><b>5.1</b> Installation</a></li>
+<li class="chapter" data-level="5.2" data-path="environment-setup.html"><a href="environment-setup.html#database"><i class="fa fa-check"></i><b>5.2</b> Database</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="simulation-and-demonstration-of-use.html"><a href="simulation-and-demonstration-of-use.html"><i class="fa fa-check"></i><b>6</b> Simulation and demonstration of use</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Storage Unit Auction</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="maroš-bednár" class="section level1 hasAnchor" number="2">
+<h1><span class="header-section-number">Chapter 2</span> Maroš Bednár<a href="maroš-bednár.html#maroš-bednár" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="storage-unit-auction" class="section level2 hasAnchor" number="2.1">
+<h2><span class="header-section-number">2.1</span> Storage Unit Auction<a href="maroš-bednár.html#storage-unit-auction" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Project description: This project is being developed in Java in Eclipse
+IDE using standard libraries and JavaFX libraries for better GUI.</p>
+<p>Project is about buying storage units via auction. Buyers bid some money
+and if they hold the highest offer at the end of the selling round,
+storage unit becomes theirs. Unit is sold automatically after round
+finishes, so owner gets the money. User must click the button on the
+screen if he wants to bid for the current unit. Storage units are
+generated randomly. Basic one is called a Common Unit and it can be
+consisted only of the cheapest Common Items. These items are creating a
+storage unit value. Due to it starting price increases. An unit with
+higher quality is a Rare Unit and it is consisted of the values from the
+Common Unit but contains a new Rare Items with a higher price. The same
+rule applies to an Epic Unit with more attributes. For example, Epic
+Items. Lastly, unit can become Mysterious. Most profitable items are
+stored inside this one. There is some chance to get original items with
+enormous value, but also fake ones with minimum price, it is kind of
+unfortunate. Items in units have a name and a price. All is generated
+randomly so there is a minimum chance to create two same storage units.
+To make it authentic, AI will be added to compete with a buyer…</p>
+</div>
+<div id="login-functions" class="section level2 hasAnchor" number="2.2">
+<h2><span class="header-section-number">2.2</span> Login functions:<a href="maroš-bednár.html#login-functions" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>Enter username</li>
+<li>Enter password, which must contain at least 6 digits containing 1 or
+more numbers</li>
+<li>Log In button will display an auction window</li>
+</ul>
+</div>
+<div id="auction-functions" class="section level2 hasAnchor" number="2.3">
+<h2><span class="header-section-number">2.3</span> Auction functions:<a href="maroš-bednár.html#auction-functions" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>Start auction button, starts the timer and the auction</li>
+<li>Bid $ button, bids the amount of money displayed, refreshes the
+window</li>
+<li>Next auction button, finds a next possible unit</li>
+</ul>
+</div>
+<div id="list-of-features-for-current-version-v1.0.0" class="section level2 hasAnchor" number="2.4">
+<h2><span class="header-section-number">2.4</span> List of features for current version v1.0.0<a href="maroš-bednár.html#list-of-features-for-current-version-v1.0.0" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>Simple UI</li>
+<li>Menus: Login menu, Auction menu</li>
+<li>Simple price generation of the units</li>
+<li>Name and Password check</li>
+<li>A timer</li>
+</ul>
+</div>
+<div id="important-code" class="section level2 hasAnchor" number="2.5">
+<h2><span class="header-section-number">2.5</span> Important code<a href="maroš-bednár.html#important-code" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>auctionClasses.Generator.generateNewUnit(Generator.java:17)
+auctionClasses.Auction.calculate(Auction.java:83)
+storageUnits.CommonUnit.setUnitInfo (CommonUnit.java:99)
+application.AuctionController.nextAuction (AuctionController.java:156)</p>
+</div>
+<div id="uml-diagram" class="section level2 hasAnchor" number="2.6">
+<h2><span class="header-section-number">2.6</span> UML diagram<a href="maroš-bednár.html#uml-diagram" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>All diagrams can be found at Documentation/images</p>
+</div>
+<div id="project-skeleton" class="section level2 hasAnchor" number="2.7">
+<h2><span class="header-section-number">2.7</span> Project Skeleton<a href="maroš-bednár.html#project-skeleton" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Current active UML Class diagram:</p>
+<div class="figure">
+<img src="images/UMLv1.0.2.png" alt="" />
+<p class="caption">Project skeleton</p>
+</div>
+<p>Database Schema diagram:</p>
+<div class="figure">
+<img src="images/database.png" alt="Project skeleton" />
+<p class="caption">Database schema</p>
+</div>
+<p>Brief demonstration of key functionality - Main Prototype:
+<img src="images/auction_picture.png" alt="Demonstration" /></p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="uml-diagram.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/USERNAME/REPO/edit/BRANCH/00_documentation.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["_main.pdf", "_main.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

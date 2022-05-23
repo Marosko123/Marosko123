@@ -1,0 +1,15 @@
+1.a  Java will not override run methode from the class Thread 
+1.b  Java will not compile the code, due to missing run funct. from Runnable
+1.c  Done
+1.d  Done
+
+2.a  If 2 synchronized is inside the code, nothing prints out, because i will always equal j...
+     If we delete one of them, code will not be synchronised at all, so i and j can have different values
+2.b  Nothing changes, we only affect a small region of the code
+2.c  Object values will be synchronized
+
+3.   Done
+4.   If fixation is removed, failure will appear later
+5.   Done
+6.   It fixes the problem
+7.   Trieda Type

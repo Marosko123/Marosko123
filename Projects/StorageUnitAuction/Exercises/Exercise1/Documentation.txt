@@ -1,0 +1,5 @@
+1-Done
+2-Because every object is saved in different memory
+3-It is not important to fix clash cycle
+4-Clash is no needed to be fixed
+5-Imma too lazy

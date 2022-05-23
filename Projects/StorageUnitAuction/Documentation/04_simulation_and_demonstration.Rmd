@@ -1,0 +1,13 @@
+# Simulation and demonstration of use
+
+![Login menu](images/title.png)
+
+![`auction menu`](images/auction_picture.png){alt="image"}
+
+![register menu](images/registration.png){alt="image"}
+
+![statistics menu](images/statistics.png){alt="image"}
+
+If on github watch the instalation video:
+
+If on github watch application usage:

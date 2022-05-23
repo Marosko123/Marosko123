@@ -1,0 +1,6 @@
+#ifndef OPENADRESSINGHASH_DOT_H
+#define OPENADRESSINGHASH_DOT_H
+
+void openAdressingHash();
+
+#endif /* OPENADRESSINGHASH_DOT_H */

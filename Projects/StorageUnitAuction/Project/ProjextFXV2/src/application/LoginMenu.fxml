@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Light.Distant?>
+<?import javafx.scene.effect.Lighting?>
+<?import javafx.scene.effect.Shadow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="405.0" prefWidth="652.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.LoginController">
+   <left>
+      <AnchorPane prefHeight="400.0" prefWidth="226.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="408.0" fitWidth="232.0">
+               <image>
+                  <Image url="@../../Images/Logo.jpg" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </left>
+   <center>
+      <AnchorPane prefHeight="404.0" prefWidth="525.0" style="-fx-background-color: #CAFAEF;" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="76.0" layoutY="14.0" prefHeight="120.0" prefWidth="267.0" style="-fx-background-color: #cccccc; -fx-background-radius: 40;" text="Welcome to &#10;storage wars!" AnchorPane.topAnchor="14.0">
+               <font>
+                  <Font name="Bodoni MT Bold" size="48.0" />
+               </font>
+            </Label>
+            <Label layoutX="26.0" layoutY="174.0" text="Username">
+               <font>
+                  <Font name="Bodoni MT" size="23.0" />
+               </font>
+            </Label>
+            <PasswordField fx:id="passwordField" layoutX="139.0" layoutY="219.0" prefHeight="36.0" prefWidth="186.0" promptText="Passsword" style="-fx-background-radius: 15; -fx-background-color: #dbdbdb; -fx-border-color: #111111; -fx-border-radius: 15;" AnchorPane.leftAnchor="139.0" AnchorPane.rightAnchor="16.0">
+               <cursor>
+                  <Cursor fx:constant="TEXT" />
+               </cursor>
+               <font>
+                  <Font name="Bodoni MT" size="13.0" />
+               </font></PasswordField>
+            <TextField fx:id="usernameTextField" layoutX="139.0" layoutY="171.0" prefHeight="36.0" prefWidth="188.0" promptText="Username" style="-fx-background-radius: 15; -fx-background-color: #dbdbdb; -fx-border-color: #111111; -fx-border-radius: 15;" AnchorPane.leftAnchor="139.0" AnchorPane.rightAnchor="14.0">
+               <cursor>
+                  <Cursor fx:constant="TEXT" />
+               </cursor>
+               <font>
+                  <Font name="Bodoni MT" size="13.0" />
+               </font></TextField>
+            <Label layoutX="26.0" layoutY="223.0" text="Password">
+               <font>
+                  <Font name="Bodoni MT" size="23.0" />
+               </font>
+            </Label>
+            <Button fx:id="loginButton" layoutX="154.0" layoutY="269.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="79.0" style="-fx-background-radius: 15;" text="Log In" AnchorPane.topAnchor="269.0">
+               <font>
+                  <Font name="Bodoni MT" size="18.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <effect>
+                  <Lighting diffuseConstant="2.0" specularConstant="0.0" specularExponent="13.59" surfaceScale="0.0">
+                     <bumpInput>
+                        <Shadow />
+                     </bumpInput>
+                     <light>
+                        <Light.Distant azimuth="324.27" elevation="102.71">
+                           <color>
+                              <Color green="1.0" blue="0.03333333507180214" />
+                           </color>
+                        </Light.Distant>
+                     </light>
+                  </Lighting>
+               </effect>
+            </Button>
+            <Text fx:id="wrongInputText" fill="RED" layoutX="95.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="JUSTIFY">
+               <font>
+                  <Font name="Calibri Bold Italic" size="14.0" />
+               </font>
+            </Text>
+
+                  <Label fx:id="connectionLabel" layoutX="324.0" layoutY="381.0" prefHeight="14.0" prefWidth="83.0" text="Retry connection" textAlignment="CENTER">
+               <font>
+                  <Font name="Bodoni MT" size="11.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="connectImg" fitHeight="50.0" fitWidth="50.0" layoutX="341.0" layoutY="326.0">
+               <image>
+                  <Image url="@../../Images/DBnotConnected.png" />
+               </image>
+            </ImageView>
+            <Button fx:id="checkConnectionButton" layoutX="344.0" layoutY="326.0" mnemonicParsing="false" onAction="#checkConnection" prefHeight="49.0" prefWidth="43.0" style="-fx-background-color: transparent;" textAlignment="CENTER">
+               <font>
+                  <Font name="System Bold" size="10.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Button>
+            <Label layoutX="130.0" layoutY="329.0" prefHeight="22.0" prefWidth="147.0" text="Not registered yet?" textAlignment="CENTER">
+               <font>
+                  <Font name="Bodoni MT" size="18.0" />
+               </font>
+            </Label>
+            <Button fx:id="registerButton" layoutX="143.0" layoutY="351.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="102.0" style="-fx-background-radius: 15;" text="Register">
+               <font>
+                  <Font name="Bodoni MT" size="18.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <effect>
+                  <Lighting diffuseConstant="2.0">
+                     <bumpInput>
+                        <Shadow />
+                     </bumpInput>
+                     <light>
+                        <Light.Distant azimuth="360.0" elevation="116.45">
+                           <color>
+                              <Color red="1.0" green="0.7891806364059448" />
+                           </color>
+                        </Light.Distant>
+                     </light>
+                  </Lighting>
+               </effect>
+            </Button>
+
+               </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

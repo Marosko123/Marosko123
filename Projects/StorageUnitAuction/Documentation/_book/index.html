@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Storage Unit Auction</title>
+  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
+set in the _output.yml file.
+The HTML output format for this example is bookdown::gitbook,</p>" />
+  <meta name="generator" content="bookdown 0.26 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Storage Unit Auction" />
+  <meta property="og:type" content="book" />
+  
+  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+set in the _output.yml file.
+The HTML output format for this example is bookdown::gitbook,</p>" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Storage Unit Auction" />
+  
+  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+set in the _output.yml file.
+The HTML output format for this example is bookdown::gitbook,</p>" />
+  
+
+<meta name="author" content="Maroš Bednár" />
+
+
+<meta name="date" content="2022-05-15" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="project-description.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Project documentation</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#fulfillment-of-criteria"><i class="fa fa-check"></i><b>1.1</b> Fulfillment of criteria</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#certain-implementations"><i class="fa fa-check"></i><b>1.2</b> Certain implementations</a>
+<ul>
+<li class="chapter" data-level="1.2.1" data-path="index.html"><a href="index.html#main-criteria"><i class="fa fa-check"></i><b>1.2.1</b> Main criteria</a></li>
+<li class="chapter" data-level="1.2.2" data-path="index.html"><a href="index.html#secondary-criteria"><i class="fa fa-check"></i><b>1.2.2</b> Secondary criteria</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="project-description.html"><a href="project-description.html"><i class="fa fa-check"></i><b>2</b> Project description</a>
+<ul>
+<li class="chapter" data-level="2.1" data-path="project-description.html"><a href="project-description.html#storage-unit-auction"><i class="fa fa-check"></i><b>2.1</b> Storage Unit Auction</a></li>
+<li class="chapter" data-level="2.2" data-path="project-description.html"><a href="project-description.html#login-functions"><i class="fa fa-check"></i><b>2.2</b> Login functions:</a></li>
+<li class="chapter" data-level="2.3" data-path="project-description.html"><a href="project-description.html#register-functions"><i class="fa fa-check"></i><b>2.3</b> Register functions:</a></li>
+<li class="chapter" data-level="2.4" data-path="project-description.html"><a href="project-description.html#auction-functions"><i class="fa fa-check"></i><b>2.4</b> Auction functions:</a></li>
+<li class="chapter" data-level="2.5" data-path="project-description.html"><a href="project-description.html#statistics-functions"><i class="fa fa-check"></i><b>2.5</b> Statistics functions:</a></li>
+<li class="chapter" data-level="2.6" data-path="project-description.html"><a href="project-description.html#list-of-features-for-current-version-v1.0.2"><i class="fa fa-check"></i><b>2.6</b> List of features for current version v1.0.2</a></li>
+<li class="chapter" data-level="2.7" data-path="project-description.html"><a href="project-description.html#important-code"><i class="fa fa-check"></i><b>2.7</b> Important code</a></li>
+<li class="chapter" data-level="2.8" data-path="project-description.html"><a href="project-description.html#project-skeleton"><i class="fa fa-check"></i><b>2.8</b> Project Skeleton</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="uml-diagram.html"><a href="uml-diagram.html"><i class="fa fa-check"></i><b>3</b> UML diagram</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="uml-diagram.html"><a href="uml-diagram.html#class-diagram"><i class="fa fa-check"></i><b>3.1</b> Class diagram</a>
+<ul>
+<li class="chapter" data-level="3.1.1" data-path="uml-diagram.html"><a href="uml-diagram.html#description-of-classes"><i class="fa fa-check"></i><b>3.1.1</b> Description of classes</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html"><i class="fa fa-check"></i><b>4</b> Description of production versions</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#change-log-v1.0.0"><i class="fa fa-check"></i><b>4.1</b> Change log v1.0.0</a></li>
+<li class="chapter" data-level="4.2" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#change-log-v1.0.1"><i class="fa fa-check"></i><b>4.2</b> Change log v1.0.1</a></li>
+<li class="chapter" data-level="4.3" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#change-log-v1.0.2"><i class="fa fa-check"></i><b>4.3</b> Change log v1.0.2</a></li>
+<li class="chapter" data-level="4.4" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#version-1.0.0"><i class="fa fa-check"></i><b>4.4</b> Version 1.0.0</a></li>
+<li class="chapter" data-level="4.5" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#version-1.0.1"><i class="fa fa-check"></i><b>4.5</b> Version 1.0.1</a></li>
+<li class="chapter" data-level="4.6" data-path="description-of-production-versions.html"><a href="description-of-production-versions.html#version-1.0.2"><i class="fa fa-check"></i><b>4.6</b> Version 1.0.2</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="environment-setup.html"><a href="environment-setup.html"><i class="fa fa-check"></i><b>5</b> Environment setup</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="environment-setup.html"><a href="environment-setup.html#installation"><i class="fa fa-check"></i><b>5.1</b> Installation</a></li>
+<li class="chapter" data-level="5.2" data-path="environment-setup.html"><a href="environment-setup.html#database"><i class="fa fa-check"></i><b>5.2</b> Database</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="simulation-and-demonstration-of-use.html"><a href="simulation-and-demonstration-of-use.html"><i class="fa fa-check"></i><b>6</b> Simulation and demonstration of use</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Storage Unit Auction</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Storage Unit Auction</h1>
+<p class="author"><em>Maroš Bednár</em></p>
+<p class="date"><em>2022-05-15</em></p>
+</div>
+<div id="project-documentation" class="section level1 hasAnchor" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Project documentation<a href="index.html#project-documentation" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="fulfillment-of-criteria" class="section level2 hasAnchor" number="1.1">
+<h2><span class="header-section-number">1.1</span> Fulfillment of criteria<a href="index.html#fulfillment-of-criteria" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>I have met almost every criterion the professor stated on his website. Also, I have dealt with all of the criteria so I understand them well. Many of them are also applied in the project working version.</p>
+<p>As a result, this project gave me a lot. Now I can say that I understand the database logic, observer patterns and JavaFX graphics GUI. Also, I have met a new program to create a nice documentations in and taught to work with a Virtual Machine. As a big bonus I finally understood that testing is important and without it program cannot be published.</p>
+</div>
+<div id="certain-implementations" class="section level2 hasAnchor" number="1.2">
+<h2><span class="header-section-number">1.2</span> Certain implementations<a href="index.html#certain-implementations" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>I have used inheritance in most of the classes. (Rare, Epic, Mysterious)-Units/Items are all inherited. Polymorphism was applied in Rare, Epic and Mysterious units´ constructors. Aggregation was applied for example to create ActualUnit inside Auction class. All of this is done in the v1.0.0 ProjectFX.</p>
+<div id="main-criteria" class="section level3 hasAnchor" number="1.2.1">
+<h3><span class="header-section-number">1.2.1</span> Main criteria<a href="index.html#main-criteria" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ul>
+<li>encapsulation is user almost everywhere in the code</li>
+<li>polymorphism and inheritance
+<ul>
+<li>storageUnits.RareUnit.java # 24, # 31</li>
+<li>storageUnits.EpicUnit.java # 23, # 30</li>
+<li>storageUnits.MysteriousUnit.java # 24, # 31</li>
+</ul></li>
+<li>aggregation
+<ul>
+<li>auctionClasses.Auction.java # 25, # 29, # 33</li>
+<li>application.AuctionController.java #59</li>
+</ul></li>
+</ul>
+</div>
+<div id="secondary-criteria" class="section level3 hasAnchor" number="1.2.2">
+<h3><span class="header-section-number">1.2.2</span> Secondary criteria<a href="index.html#secondary-criteria" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ul>
+<li>Factory pattern
+<ul>
+<li>auctionClasses.UnitFactory.java # 30</li>
+<li>auctionClasses.Auction.java # 88</li>
+</ul></li>
+<li>Strategy pattern
+<ul>
+<li>auctionClasses.Context.java # 15</li>
+<li>auctionClasses.OperationAddSubMoney.java # 25</li>
+<li>auctionClasses.OperationSubMoney.java # 15</li>
+<li>auctionClasses.OperationAddMoney.java # 15</li>
+<li>auctionClasses.Auction.java # 187</li>
+</ul></li>
+<li>Observer pattern
+<ul>
+<li>auctionClasses.Auction.java # 48</li>
+<li>application.AuctionObserver.java # 12</li>
+<li>auctionClasses.User.java # 84</li>
+</ul></li>
+<li>RTTI
+<ul>
+<li>auctionClasses.Auction.java # 148</li>
+<li>auctionClasses.UnitFactory.java # 38</li>
+<li>storageUnits.CommonUnit.java # 222</li>
+</ul></li>
+<li>User defined exception
+<ul>
+<li>application.IncorrectPasswordException.java # 28</li>
+<li>application.RegistrationController.java # 69</li>
+</ul></li>
+<li>Serialization
+<ul>
+<li>application.DBUtils.java # 132 # 133, # 565</li>
+</ul></li>
+<li>Implicit implementation of the methods inside interface
+<ul>
+<li>auctionClasses.AuctionFollower.java # 10</li>
+<li>storageUnits.CommonUnit.java # 64</li>
+</ul></li>
+<li>Lambda function
+<ul>
+<li>storageUnits.CommonUnit.java # 185</li>
+<li>application.EndMenuController.java # 104, # 105, # 106</li>
+</ul></li>
+<li>Nested classes and interfaces
+<ul>
+<li>auctionClasses.Bot.java # 19</li>
+</ul></li>
+<li>Split GUI and App
+<ul>
+<li>application.Auction.java</li>
+<li>application.AuctionController.java</li>
+</ul></li>
+</ul>
+
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="project-description.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/USERNAME/REPO/edit/BRANCH/index.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["_main.pdf", "_main.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

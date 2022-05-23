@@ -1,0 +1,1105 @@
+  1/100:
+Function: fBca + dhEf + FE + BbaDH + GHbbe
+Order: ABCDEFGH
+Number of nodes: 21
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 91.80% 
+
+  2/100:
+Function: GGEb + gdc + GgGF + CbbheH + gB + Dhd + fbFah + Abh + DEFfG + abC + gDFEE + h
+Order: ABCDEFGH
+Number of nodes: 37
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 85.55% 
+
+  3/100:
+Function: eH + AHgc + E + abgF + c + FaeaC + eGc + HHeD + CHb + Hg + hD + aCf + dBcDC
+Order: ABCDEFGH
+Number of nodes: 16
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+  4/100:
+Function: Ddc + FBec + GbbAH + CaC + Ed + eCc + ab + HfB + EGBe + EHfeb + chD + eEdgD + c + a
+Order: ABCDEFGH
+Number of nodes: 13
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 94.92% 
+
+  5/100:
+Function: bbdhce + hBh + FcAF + d + EbeHa + DF + hHdf + h + BBaB + E + dB + bHEA + BFah + fec + hce + dAbdD + DFd
+Order: ABCDEFH
+Number of nodes: 19
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 85.16% 
+
+  6/100:
+Function: eeCH + fAfdaHGG + eAFGh + HCed + HDAh + g + Eah + BGc + cBFC + eHH
+Order: ABCDEFGH
+Number of nodes: 27
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 89.45% 
+
+  7/100:
+Function: CaHhC + eG
+Order: ACEGH
+Number of nodes: 8
+Number of variables: 5
+Number of correct results: 32/32
+Number of incorrect results: 0/32
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 75.00% 
+
+  8/100:
+Function: EBH + C + AaaH + CCd + Aed + Hh + F + eb + AcBEd + CBf + Gfabd + g + ffEA + DBF + A + feAEG
+Order: ABCDEFGH
+Number of nodes: 19
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 92.58% 
+
+  9/100:
+Function: bGBe + Eea + EhaD + fAdBE + A + FEBFFb + CD + EdGdf + DhC + DCbh + d + hA + ahAbfG
+Order: ABCDEFGH
+Number of nodes: 9
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 96.48% 
+
+ 10/100:
+Function: cD + Df + cg + fF + FHacdB + bEb + c + FA + fCb + EAF + e + Bh + ec + AF + ABbFhaf + BaaD + EBcd
+Order: ABCDEFGH
+Number of nodes: 13
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 94.92% 
+
+ 11/100:
+Function: Dh + BDcb + Ddcg + H + HB + chgg + AgB + CEf + H + d + h + eeeH + ff + EDeCe + ecGfEh + dc + eFh + Fg + FECBae + Che + ecBh + Hbg + bA
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 12/100:
+Function: GeG + dfG + eh + DC + fDeAGag + h
+Order: ACDEFGH
+Number of nodes: 10
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 92.19% 
+
+ 13/100:
+Function: e + Bf + BGFAg + HEc + dCGC + Fe + bFc + fCD + fgeBAB + FaG + b + BED + AGG + caa + HF + gab + fFf
+Order: ABCDEFGH
+Number of nodes: 19
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 92.58% 
+
+ 14/100:
+Function: FgGF + f + ECBc + haa + bECHEG + eD + EDEE + ddb + bB + BahGE + Cc + GhB + Hf + haCce + h + fb + hbgGg + hd + HDeeG + eF + dce + g + HBFbhD + e + e + hh + GCGbF + d + abF
+Order: ABCDEFGH
+Number of nodes: 7
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 97.27% 
+
+ 15/100:
+Function: hFAG + HEhfac + Dc + HCEh + gFdbfhB + GA + Ahbf + cbh + GCDA + dGgHB + adcgc + cfc + aBG + Gc + gDa + cHA + aAdFFA + bea + aefB + aD + H + HhFf + CAEg + FGc
+Order: ABCDEFGH
+Number of nodes: 35
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 86.33% 
+
+ 16/100:
+Function: gAB + gHc + ach + bdcCG + gb + aHCdE + dFDd + f + edh + gd + cAc + DfdHc + Bb + DGef
+Order: ABCDEFGH
+Number of nodes: 41
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 83.98% 
+
+ 17/100:
+Function: BAEE + BHGdf + CDba + gE + FeC + D + FAgC
+Order: ABCDEFGH
+Number of nodes: 33
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 87.11% 
+
+ 18/100:
+Function: gb + EGbh + GB + BcbAA + AD + b + cA + BDA + Ade + bc + BA + f + fcHAG + hg + d
+Order: ABCDEFGH
+Number of nodes: 8
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 96.88% 
+
+ 19/100:
+Function: B + decdf + caGb + hFeEfD + b + dcGdDDE + FeF + G + Bf + CGfF + GA + fcA + fg + g + gg + e + G + GAe + EffB + C
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 20/100:
+Function: HD + Dc + dFae + Ggeh + fHcG + cb + daG + fG + DHg + HdFBA + A + agacd + ACbgf + egdh + ECFf + adcG
+Order: ABCDEFGH
+Number of nodes: 18
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 92.97% 
+
+ 21/100:
+Function: fbDCDf + Bfbbfg
+Order: BCDFG
+Number of nodes: 6
+Number of variables: 5
+Number of correct results: 32/32
+Number of incorrect results: 0/32
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 81.25% 
+
+ 22/100:
+Function: fBEgeae + bfHgF + D + CCHb + eG + Ada + EbAF + A + gfE + HcgA + B
+Order: ABCDEFGH
+Number of nodes: 16
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+ 23/100:
+Function: dcb + Afaa + HcfG + fcfdf + dG + BhA + FGBgc + cbhG + Hghb + hAcdDa + DEcGa + e + eBDE + f + AF + bEe + cC + aAacg + eAC + e + EG + g
+Order: ABCDEFGH
+Number of nodes: 9
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.004
+Use time: 0.000
+Percentual decomposition: 96.48% 
+
+ 24/100:
+Function: Cggbb + GAcDbc + cA + CE + Gc + f + EFC + gahfeC + GBGdHfg + aF + fcef + BaC + ccCd + gccGBG + GEGE + c + DedAF + Bgh + DEgAd + dg + ghCg + DB + EFAb + age + AeA + Fac + AHHe + ABhH + cb + gADdEd + CdH + A
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 25/100:
+Function: hEBD + h + DCG + hAB + GgEA + dFA + EbBgHDC + eAgh + B + aEb + D + cdcG + hhefF + faeG + eaehGD + GG + acBAG + hdaFEg + ea + bG + gE + dH + fC + cCeEb + eBHDCh + g + A + Debc + Cgbf
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 26/100:
+Function: cacd + gaB + Dgc + GEAcD + bHecd
+Order: ABCDEGH
+Number of nodes: 17
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 86.72% 
+
+ 27/100:
+Function: dfB + HbA + gHd + ha + EBD + cCd + GhBde + BecFA + eDfDe
+Order: ABCDEFGH
+Number of nodes: 31
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 87.89% 
+
+ 28/100:
+Function: e + FD + DHaee + hfAb + b + gG + DFdC + bcg + GheB + HFbhge + FBd + fh
+Order: ABCDEFGH
+Number of nodes: 17
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 93.36% 
+
+ 29/100:
+Function: g + a + cg + e + BBhf + ca + gG + EAa + hcGA + hF
+Order: ABCEFGH
+Number of nodes: 21
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 83.59% 
+
+ 30/100:
+Function: cfaDe + ceAg + fAab + CAACE + hFcFA + cBahAC + baa
+Order: ABCDEFGH
+Number of nodes: 16
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+ 31/100:
+Function: Db + FCGB + EGbF + hEFf + Ae + H + AC + dcCBd + edEeHg + bfH + bbG + EDEe + gHAd + gd + Dhe + Hb
+Order: ABCDEFGH
+Number of nodes: 24
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 90.62% 
+
+ 32/100:
+Function: GDA + GeG + dF + D + cGag + CHEeh
+Order: ACDEFGH
+Number of nodes: 18
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 85.94% 
+
+ 33/100:
+Function: EAD + EcF
+Order: ACDEF
+Number of nodes: 11
+Number of variables: 5
+Number of correct results: 32/32
+Number of incorrect results: 0/32
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 65.62% 
+
+ 34/100:
+Function: fdHag + df + fEAgfFF + HEcaH + eE + BGH + c + DcEb + AEB + baHch + dfGg + eGd + accDc + FbFDdd + Gfe + GEAeC + GdCeG + g + fHf + BaHEha + cch + h + hGBg + dC
+Order: ABCDEFGH
+Number of nodes: 24
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 90.62% 
+
+ 35/100:
+Function: dBhD + ef + fd + aHH + DCh
+Order: ABCDEFH
+Number of nodes: 25
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.004
+Use time: 0.000
+Percentual decomposition: 80.47% 
+
+ 36/100:
+Function: dh + gE + DHCG + Bdb + EFGb + G + HG + DF + Ff + HHaF + fBa + fD
+Order: ABCDEFGH
+Number of nodes: 24
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.005
+Use time: 0.000
+Percentual decomposition: 90.62% 
+
+ 37/100:
+Function: edBg + DDCggC + ffeD + AAec + FDB + ge + BG + aeB + fHef + h
+Order: ABCDEFGH
+Number of nodes: 32
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 87.50% 
+
+ 38/100:
+Function: DfC + G + bG + dgcf + EacE + eDF + gbchF + Eg + gaAb + D + bfh + aCeEAeG + Gg + gbd + aE + bD + gDFB + eB
+Order: ABCDEFGH
+Number of nodes: 9
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 96.48% 
+
+ 39/100:
+Function: CF + dEG + bEBCC + fHa + Hhf + dgFD + cCCa + g + HbAB + Eda + bFe + aab + Da + F + HbCfdB + BAD
+Order: ABCDEFGH
+Number of nodes: 16
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+ 40/100:
+Function: EF + dfbB + gG + fEgA + DDD + eDbaE
+Order: ABDEFG
+Number of nodes: 12
+Number of variables: 6
+Number of correct results: 64/64
+Number of incorrect results: 0/64
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 81.25% 
+
+ 41/100:
+Function: gcE + a + Cbc + BeFD + hEh + ddDE + EHEh + dec + Gebe + DbB + GEBh + hega
+Order: ABCDEFGH
+Number of nodes: 23
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 91.02% 
+
+ 42/100:
+Function: GCb + GgDFe + BGh + fgFA + heg + DHaB + faegA + bE
+Order: ABCDEFGH
+Number of nodes: 39
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.004
+Use time: 0.000
+Percentual decomposition: 84.77% 
+
+ 43/100:
+Function: Egfcc + ff + FdE + CF + Af
+Order: ACDEFG
+Number of nodes: 12
+Number of variables: 6
+Number of correct results: 64/64
+Number of incorrect results: 0/64
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 81.25% 
+
+ 44/100:
+Function: Ba + aH + adBc + bEC + hBFbh + BHAC + CcD + EHB + ab + faEe + EdCDDEa + fDHa + heBc + acF + AaACE + GdE
+Order: ABCDEFGH
+Number of nodes: 20
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 92.19% 
+
+ 45/100:
+Function: AC + cfF
+Order: ACF
+Number of nodes: 5
+Number of variables: 3
+Number of correct results: 8/8
+Number of incorrect results: 0/8
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 37.50% 
+
+ 46/100:
+Function: AC + HGEaAE + Bf + AaCF + CdF + G + bF + CG + cc
+Order: ABCDEFGH
+Number of nodes: 10
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 96.09% 
+
+ 47/100:
+Function: bHa + EaA + AehB + fbCA + DH + AeCBEAg + cA + hAGFf + CEhdBH + eG + hdfCA + cg + GCE
+Order: ABCDEFGH
+Number of nodes: 35
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.005
+Use time: 0.000
+Percentual decomposition: 86.33% 
+
+ 48/100:
+Function: cfHgCf + FHF + faef
+Order: ACEFGH
+Number of nodes: 7
+Number of variables: 6
+Number of correct results: 64/64
+Number of incorrect results: 0/64
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 89.06% 
+
+ 49/100:
+Function: CB + DgGeG + FFgfec + eECcFE + FHF + EhBA + cdfA + cabb + Gbaag + HgC + deChg + b + GB + He
+Order: ABCDEFGH
+Number of nodes: 23
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 91.02% 
+
+ 50/100:
+Function: AEDe + DDGfGe + feH + g + adCgH + bhAFf + bd + bC + GBb + eea + DHHG + ch + BgHe + fg + A + bEbbc + ae + acdbfh
+Order: ABCDEFGH
+Number of nodes: 23
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 91.02% 
+
+ 51/100:
+Function: g + aaCdh + Cea + hcd + baafcG + Hfeh + dbDG + ed + ecG + eb + Fcfge + acgbH + B + eb + CGdd + FCeCd + DfcG
+Order: ABCDEFGH
+Number of nodes: 24
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 90.62% 
+
+ 52/100:
+Function: HAG + daeA + CeCG + EHF + ggE + bAC + Dahb + aHe + eGC + agbg + DB + FeAAA + Hgf + A + FdH + aa + fF + DbD + GFFaeD
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 53/100:
+Function: Ccf + BGHF + Hbacd + h + A + GfEA + EEBECcFE + Hh
+Order: ABCDEFGH
+Number of nodes: 9
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 96.48% 
+
+ 54/100:
+Function: CHEF + cAd + DA + fCDE + cbb + eBEHBh + G + DC
+Order: ABCDEFGH
+Number of nodes: 17
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 93.36% 
+
+ 55/100:
+Function: eB + E + Fgc + HGgH + HHCDc
+Order: BCDEFGH
+Number of nodes: 8
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+ 56/100:
+Function: hD + Hd + gA + HAbC + FAdggf + afe
+Order: ABCDEFGH
+Number of nodes: 17
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 93.36% 
+
+ 57/100:
+Function: hac + EB + eaC + Ag + HhGB + hGaage + fFgAbcA + GB + H + AEf + FDb + Dc + gBf + AGhGG + aAd + dC + EeeDfF + h + CGc + dgd
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 58/100:
+Function: baE + FFa + Bdeb + BegF
+Order: ABDEFG
+Number of nodes: 12
+Number of variables: 6
+Number of correct results: 64/64
+Number of incorrect results: 0/64
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 81.25% 
+
+ 59/100:
+Function: Fg + Ah + fCGf + beGfH + bACEa + bbGh + GDhAFA
+Order: ABCDEFGH
+Number of nodes: 51
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.004
+Use time: 0.000
+Percentual decomposition: 80.08% 
+
+ 60/100:
+Function: f + f + GGf + GdEf + ebFgBh + dC + ACegg + gC + fHC + ahhchcF + EgC + eCbF + EEFHG + ADcA + gG + gHGe + eD + cF + c
+Order: ABCDEFGH
+Number of nodes: 20
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 92.19% 
+
+ 61/100:
+Function: Ggh + dAEC + bbba + BEEA + G + Ge + Bc + hfcaE + FaF + FCfG
+Order: ABCDEFGH
+Number of nodes: 12
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 95.31% 
+
+ 62/100:
+Function: GhH + EFf + fagD + dhB + ACAE + Bfec
+Order: ABCDEFGH
+Number of nodes: 31
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 87.89% 
+
+ 63/100:
+Function: GGEb + gG + HgGbeC + BebC + H + bdfHA + HeGe + BF + CG + bB + bBba + hHdE + B + ec + Dg
+Order: ABCDEFGH
+Number of nodes: 20
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 92.19% 
+
+ 64/100:
+Function: Bfgc + GcEB + cE + h + eEA + Ac + fgbD + H + D + EFdD + a
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 65/100:
+Function: BC + FDDB + ffce + G + BCD + af + HEc + GggHd + e + eag + baBh + cd + ACH + bfddFCC + aCbbE + gDhD + Aa + FeaDg + bbG + E + hHF + GA + DE + CdG + EF + dch + cEfHDd + fFEAa + DcAA
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 66/100:
+Function: adC + G + Bc + FEBeb + ee + cD + eFB + FBdh + ddhhD + DHh
+Order: ABCDEFGH
+Number of nodes: 23
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 91.02% 
+
+ 67/100:
+Function: FHhHb + dc + FBEH + hdB + E + CbD + GcDbF + D
+Order: BCDEFGH
+Number of nodes: 11
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 91.41% 
+
+ 68/100:
+Function: aaFE + bBccdC + baEc + EEG + Hh + bFBG + GGhB
+Order: ABCDEFGH
+Number of nodes: 17
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 93.36% 
+
+ 69/100:
+Function: fdgHb + dHa + afe + geE + B + C
+Order: ABCDEFGH
+Number of nodes: 17
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 93.36% 
+
+ 70/100:
+Function: GEGD + C + CefA + cAcg + C + F + geFf + dgfD + DEgCcD + cChf + GGAh + bB
+Order: ABCDEFGH
+Number of nodes: 19
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 92.58% 
+
+ 71/100:
+Function: ABa + GAEcfG + CC + DFBe + CEaAe
+Order: ABCDEFG
+Number of nodes: 17
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 86.72% 
+
+ 72/100:
+Function: BDfDD + FCf + Hd + Bg + hEaG + d + Dge + edBFgDf + DEAF + BHgH + AaH + ageG + AhbE + fB + AeDDd + aHc + hhaBeD + dcgE + Chf + F + CFaAfE + FFE + CDBbAd + eaeC + G + ecBh
+Order: ABCDEFGH
+Number of nodes: 24
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 90.62% 
+
+ 73/100:
+Function: Dfed + AF + BA + gGaf + GE + gGefAE + C + hD + a
+Order: ABCDEFGH
+Number of nodes: 15
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 94.14% 
+
+ 74/100:
+Function: gGf + d + HfBG + bdfHC
+Order: BCDFGH
+Number of nodes: 11
+Number of variables: 6
+Number of correct results: 64/64
+Number of incorrect results: 0/64
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 82.81% 
+
+ 75/100:
+Function: hCf + EHFb + bDHaA + aaHH + G + aGd + af + g
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 76/100:
+Function: CH + ebcF + GbG + CC
+Order: BCEFGH
+Number of nodes: 8
+Number of variables: 6
+Number of correct results: 64/64
+Number of incorrect results: 0/64
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 87.50% 
+
+ 77/100:
+Function: bcg + EAgf + hca + Egc + cAEa + DBFC + hhhAb + GDAc + ECecd + HG + Gaf + BDD + dDG + cd + ab + FhgeF + H + aDBeB + FbHF + CHG + Eg + Gd + bhG + EC + EhCD + F
+Order: ABCDEFGH
+Number of nodes: 15
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 94.14% 
+
+ 78/100:
+Function: CGH + Bfd + hBF + hHA + ff + bCa + dg + bc + bH + DEd + eAb + fbg + HgaeF + DCeeH + B + fCa + HE + CHbFa + c + fEDd + f + e
+Order: ABCDEFGH
+Number of nodes: 12
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 95.31% 
+
+ 79/100:
+Function: G + cageF + f + CCB + Da + fd + abC + FFGfb
+Order: ABCDEFG
+Number of nodes: 15
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 88.28% 
+
+ 80/100:
+Function: DaC + hFDCa + bBBbAE + cGf + hDc + abecGf + gFbC + GGFDdb + GH + eFC + bcgC + E + CE + bH
+Order: ABCDEFGH
+Number of nodes: 32
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.005
+Use time: 0.000
+Percentual decomposition: 87.50% 
+
+ 81/100:
+Function: eBhH + Hah + hdaH + Fd + hf + aaF + Ba + ccd + dgba + aFe + G + aD + eAhdb + DgHfCC + aa + Gh + Cadc + cFD + BA + dC
+Order: ABCDEFGH
+Number of nodes: 12
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 95.31% 
+
+ 82/100:
+Function: bhA + cbf + g + HEE
+Order: ABCEFGH
+Number of nodes: 19
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 85.16% 
+
+ 83/100:
+Function: bF + HAeD + GDeh + BCd + A + e + GgE + Ab + eBB + cac + BCD + dE + e
+Order: ABCDEFGH
+Number of nodes: 8
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 96.88% 
+
+ 84/100:
+Function: BFA + d + hhA + dAdG + ead + Gf + Eh + Cb + fFb + cBc + Ac + GgCa
+Order: ABCDEFGH
+Number of nodes: 26
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 89.84% 
+
+ 85/100:
+Function: EfEEEEd + haH + FF + cdDH + FFdeH + aBCA + cBgBb + cEg + aC + HfcBH + eB + HHfGF + Eh + d + hFh + bAa + FABACh
+Order: ABCDEFGH
+Number of nodes: 31
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 87.89% 
+
+ 86/100:
+Function: gD + HGbbc + d + dhDf + EcH + B + HaD + BeF + H + FDgcfeb + abdg + Hac + GDg
+Order: ABCDEFGH
+Number of nodes: 16
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+ 87/100:
+Function: ccb + b + gec + ceDBDgA + CdAF + gcg + CeHc + HD + Hae
+Order: ABCDEFGH
+Number of nodes: 17
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 93.36% 
+
+ 88/100:
+Function: bfaDd + EbE + DF + gdA + Fg + FHDCB + FaBb + fab + GCc + G + aEHE + GeAcGbfD + DeHEE + HaF
+Order: ABCDEFGH
+Number of nodes: 33
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 87.11% 
+
+ 89/100:
+Function: cBfAhD + GDD + E + Ee + dFe + C + d + Df + A + CgDH + hh + HH + FBcE + BCbf + BEbh + HbcGb + GG + aade
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 90/100:
+Function: BdAc + dAbBf + D + fadce + CBDf + AA + gga + fHfA
+Order: ABCDEFGH
+Number of nodes: 12
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 95.31% 
+
+ 91/100:
+Function: CCbhaE + GBB + egHB + gCG + Gecb + ECBDE
+Order: ABCDEGH
+Number of nodes: 20
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 84.38% 
+
+ 92/100:
+Function: Gda + EFDc + CfDHC + eFBAe + DB + CEHDBe + ebgdcc
+Order: ABCDEFGH
+Number of nodes: 26
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 89.84% 
+
+ 93/100:
+Function: hCA + BeF + ECh + f + fabD + ad + CE + Eh + cHE + e + eBc
+Order: ABCDEFH
+Number of nodes: 10
+Number of variables: 7
+Number of correct results: 128/128
+Number of incorrect results: 0/128
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 92.19% 
+
+ 94/100:
+Function: c + ggdH + deHA + DAEgE + hc + Ba + Ega + gHb + gch + AbAEh + CEf + cEBF
+Order: ABCDEFGH
+Number of nodes: 27
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.002
+Use time: 0.000
+Percentual decomposition: 89.45% 
+
+ 95/100:
+Function: dA + fFh + EC + gcd + feGb + cGfFc + GaBB + Ffc + AdC + Afa + ff + ADDED + fBfA + egHd + Ab + cFh + fbBdA + HBdc + eca + hF + HH + fE + bbEDb + aheedg
+Order: ABCDEFGH
+Number of nodes: 21
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 91.80% 
+
+ 96/100:
+Function: eFCE + ahHFbEc + gddd + Ga + eCgD + CA + Ad
+Order: ABCDEFGH
+Number of nodes: 16
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 93.75% 
+
+ 97/100:
+Function: hDF + FFb + gAbh + hFAGhc + GAgb + Fh + Ea + GdHFFc + GDab + F + aCgD + aBCfd + hEgBD + GBEdhD + gGC + Fe + Hghc + AgH + AbdA + D + CDGAb + f + f + dCfd + bE + BHEDD
+Order: ABCDEFGH
+Number of nodes: 1
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 99.61% 
+
+ 98/100:
+Function: HdCadC + d + eCaDD + g + Aea + A + b + F + Dh + Ageb + GDe + cECG + ECe + GfbD + H + Ac + EE + bbE + CGCG + aCBA + cb + Adb + HFDeeBAH + gbe + AgGA
+Order: ABCDEFGH
+Number of nodes: 4
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.000
+Use time: 0.000
+Percentual decomposition: 98.44% 
+
+ 99/100:
+Function: Cf + Caa + h + f + f + HEA
+Order: ACEFH
+Number of nodes: 7
+Number of variables: 5
+Number of correct results: 32/32
+Number of incorrect results: 0/32
+Create time: 0.001
+Use time: 0.000
+Percentual decomposition: 78.12% 
+
+100/100:
+Function: HHAE + chB + Ehc + F + hgDc + aehh + ha + dbBgB + hEgHgF
+Order: ABCDEFGH
+Number of nodes: 32
+Number of variables: 8
+Number of correct results: 256/256
+Number of incorrect results: 0/256
+Create time: 0.003
+Use time: 0.000
+Percentual decomposition: 87.50% 
+
+
+Following data show results for 100 BDDs: 
+Total CREATE time spent :  0.162000 seconds
+Total USE time spent: 0.040000 seconds
+Average reduction is: 90.398438%

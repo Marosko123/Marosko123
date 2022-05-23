@@ -1,0 +1,24 @@
+\contentsline {chapter}{\numberline {1}Project documentation}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Fulfillment of criteria}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Certain implementations}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Main criteria}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Secondary criteria}{2}{subsection.1.2.2}%
+\contentsline {chapter}{\numberline {2}UML diagram}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Use Case}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Class diagram}{4}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Description of classes}{4}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}Package diagram}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Object diagram}{5}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Component diagram}{5}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Composite structure diagram}{5}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Deployment diagram}{5}{section.2.7}%
+\contentsline {chapter}{\numberline {3}Description of production versions}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Change log}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Version changes}{6}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Version 1.0.2}{7}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Version 1.0.1}{7}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Version 1.0.0}{7}{subsection.3.2.3}%
+\contentsline {chapter}{\numberline {4}Environment setup}{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Installation}{8}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Database}{8}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Simulation and demonstration of use}{9}{chapter.5}%
