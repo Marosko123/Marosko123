@@ -10,13 +10,13 @@ Firstly, registration is needed to create a new account in the auction.
 Secondly, if registered ,user must click the start auction button on the screen if he wants to start the current auction. Storage units are generated randomly. Basic one is called a Common Unit and it can be consisted only of the cheapest Common Items. These items are creating a storage unit value. Due to it starting price increases. An unit with higher quality is a Rare Unit and it is consisted of the values from the Common Unit but contains a new Rare Items with a higher price. The same rule applies to an Epic Unit with more attributes. For example, Epic Items. Lastly, unit can become Mysterious. Most profitable items are stored inside this one. There is some chance to get original items with enormous value, but also fake ones with minimum price, it is kind of unfortunate. Items in units have a name and a price. All is generated randomly so there is a minimum chance to create two same storage units. To make it authentic, AI is added to compete with a buyer...
 ## Table of Contents
 
-* [Project documentation](Documentation)
-  * [JavaDoc documentation](Documentation/javadoc)
-* [UML diagrams](Documentation/images)
-* [Versions](Documentation/02_versions.md)
-* [Technical details](Documentation/03_tech_details.md)
-* [Simulation and demonstration](Documentation/04_simulation_and_demonstration.md)  
-  * [Video demonstration](Documentation/04_simulation_and_demonstration.md)
+* [Project documentation](Project/Documentation)
+  * [JavaDoc documentation](Project/Documentation/javadoc)
+* [UML diagrams](Project/Documentation/images)
+* [Versions](Project/Documentation/02_versions.md)
+* [Technical details](Project/Documentation/03_tech_details.md)
+* [Simulation and demonstration](Project/Documentation/04_simulation_and_demonstration.md)  
+  * [Video demonstration](Project/Documentation/04_simulation_and_demonstration.md)
 
 ## Fulfillment of criteria
 
@@ -127,4 +127,4 @@ I have used inheritance in most of the classes. (Rare, Epic, Mysterious)-Units/I
 
 ##Brief demonstration of key functionality - Main Prototype:
 
-![Demonstration](Documentation/images/auction_picture.png)
+![Demonstration](Project/Documentation/images/auction_picture.png)
