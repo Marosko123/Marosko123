@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a software programme
 
 # Projects: 
-- [Main Repository](https://github.com/Marosko123/Marosko123)
+[Main Repository](https://github.com/Marosko123/Marosko123)
 - [Storage Unit Auction - Java](Projects/StorageUnitAuction)
 - [Data Structures](Projects/DataStructures)
   - [AVL Tree](Projects/DataStructures/AVL-Tree)
