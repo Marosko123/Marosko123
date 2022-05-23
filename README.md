@@ -13,7 +13,7 @@
 
 
 # About me
-- [CV-Bednar-Maros](Maroš_Bednár_CV.pdf)
+- [CV-Bednar-Maros](Maroš_Bednár_sk_CV.pdf)
 - I am a student of the Faculty of Informatics and Information Technologies STU Bratislava.
 - I love sports such as Voleyball, Basketball, Cycling and fishing
 - Also, I teach my students how to program in different programming languages (C/C++, Java, C#, Python)
