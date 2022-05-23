@@ -12,9 +12,13 @@
 
 
 # About me
-- [CV-Bednar-Maros](CV)
+- [CV-Bednar-Maros](Maroš_Bednár_CV.pdf)
 - I am a student of the Faculty of Informatics and Information Technologies STU Bratislava.
 - I love sports such as Voleyball, Basketball, Cycling and fishing
 - Also, I teach my students how to program in different programming languages (C/C++, Java, C#, Python)
-- Where I teach: https://www.doucma.sk/272129-doucovanie-programovanie-je-hracka
 - **Currently, I am looking for a good collective to work with on some interesting projects.**
+
+# How to reach me
+- Email: bednarmaros341@gmail.com
+- Tel. num: +421 911 670 188
+- Where I teach: https://www.doucma.sk/272129-doucovanie-programovanie-je-hracka
