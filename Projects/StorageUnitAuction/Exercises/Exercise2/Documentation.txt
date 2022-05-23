@@ -1,7 +1,0 @@
-1 - done
-2 - no need to modify the clash loop
-3 - done
-4 - done
-5 - we can access private attributes by getters and setters. + Set ENERGY attribute as float and getter getEnergy parse to (int)
-6 - done
-7 - parameter is the script with the main function
