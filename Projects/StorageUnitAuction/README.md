@@ -11,6 +11,7 @@ Secondly, if registered ,user must click the start auction button on the screen 
 ## Table of Contents
 
 * [Project documentation](Project/Documentation)
+  * [Complex PDF Documentation](Project/Documentation/_book/_main.pdf)
   * [JavaDoc documentation](Project/Documentation/javadoc)
 * [UML diagrams](Project/Documentation/images)
 * [Versions](Project/Documentation/02_versions.md)
