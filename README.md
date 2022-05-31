@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marosko123
-- 👀 I’m interested in Software development
+- 👀 I’m interested in a Software development
 - 🌱 I’m currently working on the Data structures and MySQL databases
 - 💞️ **Currently, I am looking for a good collective to work with on some interesting projects.**
 
@@ -16,7 +16,7 @@
 - [CV-Bednar-Maros](Info/Maroš_Bednár_sk_CV.pdf)
 - I am a student of the Faculty of Informatics and Information Technologies STU Bratislava.
 - I love sports such as Voleyball, Basketball, Cycling and fishing
-- Also, I teach my students how to program in different programming languages (C/C++, Java, C#, Python
+- Also, I teach my students how to program in different programming languages (C/C++, Java, C#, Python)
 
 # How to reach me
 - Email: bednarmaros341@gmail.com
