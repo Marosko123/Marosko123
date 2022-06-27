@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marosko123
 - 👀 I’m interested in a Software development
 - 🌱 I’m currently working on the Data structures and MySQL databases
-- 💞️ **Currently, I am looking for a good collective to work with on some interesting projects.**
 
 # Projects: 
 [Main Repository](https://github.com/Marosko123/Marosko123)
