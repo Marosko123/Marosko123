@@ -20,6 +20,14 @@ def get_frame_type(arr: str):
     ether_bytes_of_snap = str(arr[40:44])
 
     if constants.ETHER_TYPE_VALUES.keys().__contains__(ether_or_length_bytes):
+        if ether_or_length_bytes == '0800':
+            source_ip_address = get_ip_source(arr)
+            if not IP_addresses.__contains__(source_ip_address):
+                IP_addresses.append(source_ip_address)
+            if most_sent_packets.keys().__contains__(source_ip_address):
+                most_sent_packets[source_ip_address] += 1
+            else:
+                most_sent_packets[source_ip_address] = 1
         return 'Ethernet II - ' + constants.ETHER_TYPE_VALUES[ether_or_length_bytes]
     elif dsap_bytes != ssap_bytes and not constants.IEEE_SAPS.keys().__contains__(dsap_bytes):
         return 'Novell 802.3 RAW (Novell proprietary)'
@@ -27,6 +35,24 @@ def get_frame_type(arr: str):
         return 'IEEE 802.3 LLC'
     else:
         return 'IEEE 802.3 LLC + SNAP - ' + constants.ETHER_TYPE_VALUES[ether_bytes_of_snap]
+
+
+def get_ip_source(arr: str):
+    return '.'.join(list(str(int(arr[52:60][i:i+2], 16)) for i in range(0, len(arr[52:60]), 2)))
+
+
+def get_ip_destination(arr: str):
+    return '.'.join(list(str(int(arr[60:68][i:i+2], 16)) for i in range(0, len(arr[60:68]), 2)))
+
+
+def get_ip_sent_most_packets():
+    most = 0
+    ip = ''
+    for key in most_sent_packets.keys():
+        if most_sent_packets[key] > most:
+            most = most_sent_packets[key]
+            ip = key
+    return ip
 
 
 def format_frame(arr: str):
@@ -57,6 +83,8 @@ frame_analysis = []
 file_name = 'eth-1.pcap'
 pcap = scapy.rdpcap("./vzorky_pcap_na_analyzu/" + file_name)
 i = 0
+IP_addresses = []
+most_sent_packets: dict = {}
 
 for iteration, pckt in enumerate(pcap):
     frame_analysis.append([])
@@ -64,5 +92,9 @@ for iteration, pckt in enumerate(pcap):
     packet = bytearray(frame)
     frame_analysis[i] = stringify_output(frame, i)
     i += 1
+
+most_sending_ip = get_ip_sent_most_packets()
+frame_analysis.append('\nIP addresses of the protocols TCP/IPv4: \n'+'\n'.join(IP_addresses))
+frame_analysis.append(f'\nMost sent packets from IP: {most_sending_ip} ({most_sent_packets[most_sending_ip]} pcs)\n')
 
 file_of_results.writelines(frame_analysis)

@@ -1,4 +1,4 @@
-# EtherType values
+# EtherType Values
 ETHER_TYPE_VALUES: dict = {'0200': 'XEROX PUP',
                            '0201': 'PUP Addr Trans',
                            '0800': 'Internet IP (IPv4)',
@@ -34,5 +34,16 @@ IEEE_SAPS: dict = {'00': 'Null SAP',
                    'FE': 'ISO Network Layer Protocols',
                    'FF': 'Global DSAP'}
 
-
-
+# IP Protocol
+IP_PROTOCOL: dict = {'1': 'ICMP',
+                     '2': 'IGMP',
+                     '6': 'TCP',
+                     '9': 'IGRP',
+                     '17': 'UDP',
+                     '47': 'GRE',
+                     '50': 'ESP',
+                     '51': 'AH',
+                     '57': 'SKIP',
+                     '88': 'EIGRP',
+                     '89': 'OSPF',
+                     '115': 'L2TP'}
