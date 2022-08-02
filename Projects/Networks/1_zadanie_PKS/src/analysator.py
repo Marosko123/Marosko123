@@ -5,7 +5,7 @@ import constants
 
 def get_destination(arr: str):
     string = arr[0:12]
-    return ":".join(string[j:j+2] for j in range(0, len(string), 2))
+    return ":".join(string[j:j + 2] for j in range(0, len(string), 2))
 
 
 def get_source(arr: str):
